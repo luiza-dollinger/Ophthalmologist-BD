@@ -25,9 +25,29 @@ Reunião com a Empresa. Analise e Tratamento de dados do Excel. Criação de tab
 ![Convenio x Valor](https://github.com/luiza-dollinger/Ophthalmologist-BD/assets/149322559/a89409a4-3c5f-454b-a301-eb93b5246234)
 *Resumo:* De todo pagemento no meio tempo de 2022, 2023 e 2024 72,21% foram pagos em particular sendo os outros 27,79% sendo divididos entre SESAB com 27,31% e Prefeitura de Ibirapuã com 0,38%
 
+# 6. Ano x Cirurgião
+![ano e cirurgiao](https://github.com/luiza-dollinger/Ophthalmologist-BD/assets/149322559/6b62a3b5-1e4b-4732-83d3-5807e196e0a3)
+
+*Resumo:* O valor acordado que cada cirurgião gerou por trimestre, Jeová foi a que mais gerou renda durante o período de 3 meses
+
+# 7.Cirurgião x Convênio
+![cirurgiao convenio](https://github.com/luiza-dollinger/Ophthalmologist-BD/assets/149322559/849c78ae-b845-409c-82a3-84d2a488dbca)
+
+*Resumo:* O valor acordado que cada cirurgião gerou para a empresa por cada convenio. Quem mais gerou lucrou foi a Jeova.
+
+# 8. Especialidade x Convênio
+![especialidade convenio](https://github.com/luiza-dollinger/Ophthalmologist-BD/assets/149322559/e2dafe42-a460-490d-8f27-48ae86f32bd2)
+
+*Resumo:* A comparação de valores acordados de cada convenioa, sendo o primeiro o partícular, o segundo o SESAB, o terceiro a da prefeitura de Ibirapuã
+
+# 9. Procedimento x Convênio
+![procedimento e convenio](https://github.com/luiza-dollinger/Ophthalmologist-BD/assets/149322559/5646a92b-66b6-4372-b741-ca37895f66c3)
+
+*Resumo:* O valor arecadadi por cada procedimento por convênio. Quem mas arrecadou dinheiro foi o procedimento de facomultificação pelo SESAB
+
 # Autores
-* Luiza Borges Von Dollinger
-* Sami Farah Neto
-* Tony Montenegro Abrantes
-* João Paulo Giffoni de Angiles Nunes de Matos
-* João Gabriel Alves Feitosa
+* Luiza Borges Von Dollinger - 202302256376
+* Sami Farah Neto - 202302216048
+* Tony Montenegro Abrantes - 202302256163
+* João Paulo Giffoni de Angiles Nunes de Matosm - 2023035999412
+* João Gabriel Alves Feitosa - 202303907265 
